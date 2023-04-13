@@ -1,2 +1,2 @@
 # iris_dataset
-My  first exploratory Analysis, using Iris Dataset 
+Exploring the Iris dataset using R.
